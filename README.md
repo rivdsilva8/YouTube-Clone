@@ -33,5 +33,7 @@ http://localhost:3000
 ```
 
 # Using the Project:
-To use the project, you can type whatever video you want to see into the searchbar and you will get youtube videos based on your search.
-You can also use the advanced search feature by clicking the checkbox to expand that form and get access to filter according to Safe Search and Order by Relevaence, Data added, View Count etc
+* To use the project, you can type whatever video you want to see into the Search Bar and you will get youtube videos based on your search.
+* You can also use the advanced search feature by clicking the checkbox to expand that form and get access to filter according to Safe Search and Order by Relevaence, Data added, View Count etc.
+* On clicking a Video, you will be navigated to the video page and will be able to watch the video right in the application or navigate to youtube.com and watch it there.
+* One issue on using the Youtbe API is some videos may be restricted to be played on websites outside the offical website, in which ase the link can be used to go there
