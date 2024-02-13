@@ -9,4 +9,7 @@ Welcome to my youtube-clone web app which uses the power of React and the youtub
 website interface.
 
 # Running the Project: 
-To run the YouTube Clone, you have to navigate to the
+To run the YouTube Clone, you have to navigate to the src folder using
+```bash
+cd ./YouTube-Clone/crc
+```
