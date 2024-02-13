@@ -9,8 +9,26 @@ Welcome to my youtube-clone web app which uses the power of React and the youtub
 website interface.
 
 # Running the Project: 
-To run the YouTube Clone, you have to navigate to the src folder using
+1. To run the YouTube Clone, you have to navigate to the src folder using :
 
 ```bash
-cd ./YouTube-Clone/src
+cd ./YouTube-Clone
 ```
+
+2. After that you have to install the project's depenencies using :
+```bash
+npm i --force
+```
+
+3. Finally you can run the project using :
+```bash
+npm run dev 
+```
+
+4. by default the project will run on port 3000
+you can see it in the browser using :
+```bash
+http://localhost:3000 
+```
+
+# Using the Project:
