@@ -27,6 +27,7 @@ npm run dev
 
 4. by default the project will run on port 3000
 you can see it in the browser using :
+
 ```bash
 http://localhost:3000 
 ```
