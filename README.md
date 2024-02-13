@@ -33,3 +33,5 @@ http://localhost:3000
 ```
 
 # Using the Project:
+To use the project, you can type whatever video you want to see into the searchbar and you will get youtube videos based on your search.
+You can also use the advanced search feature by clicking the checkbox to expand that form and get access to filter according to Safe Search and Order by Relevaence, Data added, View Count etc
