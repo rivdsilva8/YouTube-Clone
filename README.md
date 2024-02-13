@@ -10,6 +10,6 @@ website interface.
 
 # Running the Project: 
 To run the YouTube Clone, you have to navigate to the src folder using
-``bash
-cd ./YouTube-Clone/crc
+``
+cd ./YouTube-Clone/src
 ``
